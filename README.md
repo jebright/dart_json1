@@ -1,4 +1,1 @@
-A sample command-line application.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Complete code examples for the blog post [Dart Fundamentals - Working with JSON in Dart and Flutter](https://codingwithjoe.com/dart-fundamental…dart-and-flutter/ )
