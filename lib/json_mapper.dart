@@ -81,7 +81,7 @@ abstract class StudentJsonMapper {
 
   //Given a list of students, encode as Json
   static String listToJson(List<Student> students) {
-    var x = students
+    List<Map<String, String>> x = students
         .map((f) =>
             {'name': f.name, 'email': f.email, 'dob': f.dob.toIso8601String()})
         .toList();
